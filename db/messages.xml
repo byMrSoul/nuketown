@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <deadline>60</deadline>
+        <shutdown>1</shutdown>
+        <text>Nuketown will restart in #tmin minutes.</text>
+    </message>
+	<message>
+        <repeat>12</repeat>
+        <text>Loot, kill, die, repeat.</text>
+    </message>
+</messages>

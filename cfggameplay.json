@@ -1,0 +1,82 @@
+{
+"version": 122,
+    "GeneralData":{
+        "disableBaseDamage": false,
+        "disableContainerDamage": false,
+        "disableRespawnDialog": false,
+        "disableRespawnInUnconsciousness": true
+    },
+    "PlayerData": {
+        "disablePersonalLight": false,
+        "spawnGearPresetFiles": ["custom/Nuketown1.json", "custom/Nuketown2.json", "custom/Nuketown3.json", "custom/Nuketown4.json" ],
+        "StaminaData": {
+            "sprintStaminaModifierErc": 0.01,
+            "sprintStaminaModifierCro": 0.01,
+            "staminaWeightLimitThreshold": 6000.0,
+            "staminaMax": 100.0,
+            "staminaKgToStaminaPercentPenalty": 0.01,
+            "staminaMinCap": 0.01
+        },
+        "ShockHandlingData": {
+            "shockRefillSpeedConscious": 5.0,
+            "shockRefillSpeedUnconscious": 5.0,
+            "allowRefillSpeedModifier": true
+        },
+        "MovementData": {
+            "timeToStrafeJog": 0.1,
+            "rotationSpeedJog": 0.3,
+            "timeToSprint": 0.45,
+            "timeToStrafeSprint": 0.3,
+            "rotationSpeedSprint": 0.15
+        },
+        "DrowningData": {
+            "staminaDepletionSpeed": 10.0,
+            "healthDepletionSpeed": 10.0,
+            "shockDepletionSpeed": 10.0
+        }
+    },
+    "WorldsData": {
+        "lightingConfig": 0,
+        "objectSpawnersArr": [
+            "./custom/spawnerData.json"
+        ]
+    },
+    "BaseBuildingData": {
+        "HologramData": {
+            "disableIsCollidingBBoxCheck": true,
+            "disableIsCollidingPlayerCheck": true,
+            "disableIsClippingRoofCheck": true,
+            "disableIsBaseViableCheck": true,
+            "disableIsCollidingGPlotCheck": false,
+            "disableIsCollidingAngleCheck": true,
+            "disableIsPlacementPermittedCheck": true,
+            "disableHeightPlacementCheck": true,
+            "disableIsUnderwaterCheck": true,
+            "disableIsInTerrainCheck": true
+        },
+        "ConstructionData": {
+            "disablePerformRoofCheck": true,
+            "disableIsCollidingCheck": true,
+            "disableDistanceCheck": true
+        }
+    },
+    "UIData": {
+        "use3DMap": false,
+        "HitIndicationData": {
+            "hitDirectionOverrideEnabled": true,
+            "hitDirectionBehaviour": 2,
+            "hitDirectionStyle": 0,
+            "hitDirectionIndicatorColorStr": "0xff32cd32",
+            "hitDirectionMaxDuration": 0.8,
+            "hitDirectionBreakPointRelative": 0.2,
+            "hitDirectionScatter": 20.0,
+            "hitIndicationPostProcessEnabled": true
+        },
+        "MapData": {
+            "ignoreMapOwnership": true,
+            "ignoreNavItemsOwnership": true,
+            "displayPlayerPosition": true,
+            "displayNavInfo": true
+        }
+    }
+}

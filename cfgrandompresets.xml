@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<randompresets>
+		<cargo chance="1.00" name="foodArmy">
+				<item name="BrisketSpread_Opened" chance="0.05" />
+				<item name="Chips" chance="0.05" />
+				<item name="Crackers" chance="0.05" />
+				<item name="Honey" chance="0.05" />
+				<item name="Lunchmeat_Opened" chance="0.05" />
+				<item name="Pajka_Opened" chance="0.05" />
+				<item name="Pate_Opened" chance="0.05" />
+				<item name="PorkCan_Opened" chance="0.05" />
+				<item name="SaltySticks" chance="0.05" />
+				<item name="SodaCan_Fronta" chance="0.05" />
+				<item name="BakedBeansCan_Opened" chance="0.05"/>
+				<item name="SpaghettiCan_Opened" chance="0.05"/>
+				<item name="PeachesCan_Opened" chance="0.05"/>
+				<item name="Marmalade" chance="0.05"/> 
+				<item name="SodaCan_Spite" chance="0.05"/>
+				<item name="SodaCan_Pipsi" chance="0.05"/>
+				<item name="SodaCan_Cola" chance="0.05"/>
+				<item name="SodaCan_Kvass" chance="0.05"/>
+		</cargo>
+		<cargo chance="1.00" name="mixArmy">
+				<item name="BandageDressing" chance="0.09" />
+				<item name="SalineBagIV" chance="0.09" />
+				<item name="Ammo_308Win" chance="0.09" />
+				<item name="Ammo_762x54" chance="0.09" />
+				<item name="TetracyclineAntibiotics" chance="0.09" />
+				<item name="Mag_CMAG_40Rnd" chance="0.09" />
+				<item name="Mag_FAL_20Rnd" chance="0.09" />
+				<item name="Mag_FAMAS_25Rnd" chance="0.09" />
+				<item name="Mag_CZ550_10rnd" chance="0.09" />
+				<item name="Ammo_357" chance="0.09" />
+				<item name="EasterEgg" chance="0.09" />
+		</cargo>
+		<attachments chance="0.50" name="vestsPlate">
+			<item name="PlateCarrierVest" chance="1.00" />
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</attachments>
+		<!-- ARMY ATTACHMENTS -->
+		<attachments chance="0.80" name="hatsArmy">
+			<item name="Ssh68Helmet" chance="0.13" />
+			<item name="WitchHat" chance="0.13" />
+			<item name="WitchHood_Red" chance="0.13" />
+			<item name="WitchHood_Brown" chance="0.13" />
+			<item name="WitchHood_Black" chance="0.13" />
+			<item name="PumpkinHelmet" chance="0.09" />
+		</attachments>
+		<attachments chance="0.45" name="vestsArmy">
+			<item name="PlateCarrierVest" chance="0.09" />
+			<item name="SmershVest" chance="0.09" />
+			<item name="ChestHolster" chance="0.09" />
+			<item name="ReflexVest" chance="0.09" />
+		</attachments>
+		<attachments chance="1.00" name="ghillieKit">
+			<item name="GhillieSuit_Woodland" chance="1.00" />
+			<item name="GhillieHood_Woodland" chance="1.00" />
+		</attachments>
+</randompresets>

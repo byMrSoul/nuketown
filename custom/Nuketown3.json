@@ -1,0 +1,269 @@
+{
+    "name": "Two",
+    "spawnWeight": 1,
+    "characterTypes": [
+        "SurvivorF_Judy",
+        "SurvivorF_Keiko",
+        "SurvivorF_Linda",
+        "SurvivorF_Maria",
+        "SurvivorM_Boris",
+        "SurvivorM_Cyril",
+        "SurvivorM_Denis",
+        "SurvivorM_Elias"
+    ],
+    "attachmentSlotItemSets": [
+        {
+            "slotName": "shoulderR",
+            "discreteItemSets": [
+                {
+                    "itemType": "M14",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": 2,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [
+                        "Mag_M14_20Rnd",
+                        "ReflexOptic",
+                        "Battery9V"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                }
+            ]
+        },
+        {
+            "slotName": "Body",
+            "discreteItemSets": [
+                {
+                    "itemType": "USMCJacket_Desert",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [
+                        "Mag_FAL_20Rnd",
+                        "Mag_FAL_20Rnd",
+                        "Mag_FAL_20Rnd",
+                        "Mag_FAL_20Rnd",
+                        "Mag_FAL_20Rnd",
+                        "Mag_FAL_20Rnd",
+						"Bandage",
+						"BandageDressing",
+						"Bandage",
+						"BandageDressing",
+                        "Mag_M14_20Rnd",
+                        "Mag_M14_20Rnd",
+                        "Mag_M14_20Rnd",
+                        "Mag_M14_20Rnd",
+                        "Mag_M14_20Rnd",
+                        "Mag_M14_20Rnd",
+                        "Mag_M14_20Rnd",
+                        "Mag_M14_20Rnd"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                }
+            ]
+        },
+        {
+            "slotName": "Legs",
+            "discreteItemSets": [
+                {
+                    "itemType": "USMCPants_Desert",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [
+                        "SodaCan_Kvass",
+                        "SodaCan_Pipsi",
+                        "SodaCan_Cola",
+                        "SodaCan_Spite",
+                        "Mag_FAL_20Rnd",
+                        "Mag_FAL_20Rnd",
+                        "Mag_FAL_20Rnd",
+                        "Rice"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                }
+            ]
+        },
+        {
+            "slotName": "Vest",
+            "discreteItemSets": [
+                {
+                    "itemType": "PlateCarrierVest_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "PlateCarrierPouches",
+                            "attributes": {
+                                "healthMin": 1,
+                                "healthMax": 1,
+                                "quantityMin": 1,
+                                "quantityMax": 1
+                            },
+                            "quickBarSlot": -1,
+                            "simpleChildrenTypes": [
+                                "Rice",
+                                "Mag_FAL_20Rnd",
+                                "Bandage",
+                                "BandageDressing",
+                                "Bandage",
+                                "BandageDressing",
+                                "Mag_M14_20Rnd",
+                                "Mag_M14_20Rnd"
+                            ],
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ],
+                    "simpleChildrenTypes": [
+                        "RGD5Grenade",
+                        "M67Grenade",
+                        "RGD5Grenade",
+                        "M67Grenade"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                }
+            ]
+        },
+        {
+            "slotName": "Headgear",
+            "discreteItemSets": [
+                {
+                    "itemType": "BallisticHelmet_UN",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false
+                }
+            ]
+        },
+        {
+            "slotName": "Feet",
+            "discreteItemSets": [
+                {
+                    "itemType": "Ballerinas_White",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false
+                }
+            ]
+        },
+        {
+            "slotName": "Hands",
+			"discreteItemSets": [
+				{
+					"itemType": "FAL",
+					"spawnWeight": 1,
+					"attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+					"quickBarSlot": 1,
+					"complexChildrenTypes": [],
+					"simpleChildrenTypes": [
+						"Mag_FAL_20Rnd",
+						"Fal_OeBttstck",
+					],
+					"simpleChildrenUseDefaultAttributes": false
+				}
+            ]
+        },
+        {
+            "slotName": "Armband",
+            "discreteItemSets": [
+                {
+                    "itemType": "Armband_White",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [],
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false
+                }
+            ]
+        },
+        {
+            "slotName": "Back",
+            "discreteItemSets": [
+                {
+                    "itemType": "DuffelBagSmall_Green",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "Deagle",
+                            "attributes": {
+                                "healthMin": 1,
+                                "healthMax": 1,
+                                "quantityMin": 1,
+                                "quantityMax": 1
+                            },
+                            "quickBarSlot": 3,
+                            "simpleChildrenTypes": [
+                                "Mag_Deagle_9rnd"
+                            ],
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ],
+                    "simpleChildrenTypes": [
+                        "Mag_Deagle_9rnd",
+                        "Mag_Deagle_9rnd",
+                        "Mag_Deagle_9rnd"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                }
+            ]
+        }
+    ],
+    "discreteUnsortedItemSets": []
+}

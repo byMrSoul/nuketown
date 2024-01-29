@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<playerspawnpoints>
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>1</min_dist_infected>
+            <max_dist_infected>1</max_dist_infected>
+            <min_dist_player>1</min_dist_player>
+            <max_dist_player>2</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>1</max_dist_static>
+        </spawn_params>
+		<generator_posbubbles>
+			<pos x="12240.825195" z="12493.106445" />
+			<pos x="12248.069336" z="12483.085938" />
+			<pos x="12231.051758" z="12481.813477" />
+			<pos x="12234.369141" z="12508.014648" />
+			<pos x="12255.682617" z="12487.569336" />
+			<pos x="12264.429688" z="12497.811523" />
+			<pos x="12251.263672" z="12496.212891" />
+			<pos x="12248.799805" z="12532.888672" />
+			<pos x="12256.404297" z="12543.327148" />
+			<pos x="12263.334961" z="12536.523438" />
+			<pos x="12271.657227" z="12532.535156" />
+			<pos x="12288.212891" z="12554.295898" />
+			<pos x="12269.756836" z="12565.986328" />
+			<pos x="12269.361328" z="12550.714844" />
+			<pos x="12257.259766" z="12518.978516" />
+			<pos x="12265.028320" z="12509.614258" />
+			<pos x="12275.928711" z="12511.946289" />
+			<pos x="12242.924805" z="12503.578125" />
+			<pos x="12257.440430" z="12547.834961" />
+			<pos x="12277.885742" z="12563.441406" />
+        </generator_posbubbles>
+    </fresh>
+</playerspawnpoints>

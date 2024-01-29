@@ -1,0 +1,3307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<damage min="0.0" max="0.0" />
+	<type name="SeaChest">
+		<attachments chance="1.00">
+			<item name="M4A1_Green" chance="0.50"/>
+			<item name="M4A1" chance="0.50"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_308WinTracer" chance="0.50"/>
+			<item name="Ammo_308Win" chance="0.50"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_308WinTracer" chance="0.50"/>
+			<item name="Ammo_308Win" chance="0.50"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_762x54Tracer" chance="0.50"/>
+			<item name="Ammo_762x54" chance="0.50"/>
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+    <!-- M4A1 Attachments -->
+		<attachments chance="1.00">
+			<item name="M4_MPHndgrd" chance="0.20" />
+			<item name="M4_PlasticHndgrd" chance="0.20" />
+			<item name="M4_RISHndgrd" chance="0.20" />
+			<item name="M4_RISHndgrd_Black" chance="0.20" />
+			<item name="M4_RISHndgrd_Green" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="StarlightOptic" chance="0.20" />
+			<item name="M68Optic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="M4_CarryHandleOptic" chance="0.20" />
+			<item name="ACOGOptic_6x" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_CQBBttstck" chance="0.33" />
+			<item name="M4_MPBttstck" chance="0.33" />
+			<item name="M4_OEBttstck" chance="0.33" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</attachments>
+	</type>
+	<!--BAGS-->
+	<type name="AssaultBag_Ttsko">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AssaultBag_Green">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DryBag_Orange">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M14">
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic_6x" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DryBag_Yellow">
+		<attachments chance="1.00">
+			<item name="M14" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic_6x" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DryBag_Blue">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DryBag_Green">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DryBag_Black">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DryBag_Red">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HuntingBag">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="HuntingBag_Hannah">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AliceBag_Camo">
+		<attachments chance="1.00">
+			<item name="AKS74U_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SawedoffIzh43Shotgun" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_12gaSlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_12gaSlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_12gaSlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_12gaSlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AliceBag_Black">
+		<attachments chance="1.00">
+			<item name="Aug" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BUISOptic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.20" />
+			<item name="ACOGOptic_6x" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SawedoffB95" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_308Win" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_308Win" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AliceBag_Green">
+		<attachments chance="1.00">
+			<item name="SawedOffFAMAS" chance="1.00" /> 
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SawedoffMosin9130_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_762x54" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_762x54" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Deagle_Gold" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="CoyoteBag_Brown">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="MountainBag_Red">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="MountainBag_Blue">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="MountainBag_Green">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="SmershBag">
+		<cargo chance="1.00">
+			<item name="SawedoffIzh43Shotgun" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaPellets" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaSlug" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Deagle" chance="1.00" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_40mm_Chemgas" chance="0.50" />
+			<item name="Ammo_40mm_Explosive" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_40mm_Smoke_Black" chance="0.25" />
+			<item name="Ammo_40mm_Smoke_Green" chance="0.25" />
+			<item name="Ammo_40mm_Smoke_Red" chance="0.25" />
+			<item name="Ammo_40mm_Smoke_White" chance="0.25" />
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="TortillaBag">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TaloonBag_Blue">
+		<cargo chance="1.00">
+			<item name="M79" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_40mm_Chemgas" chance="0.50" />
+			<item name="Ammo_40mm_Explosive" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_40mm_Chemgas" chance="0.50" />
+			<item name="Ammo_40mm_Explosive" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_40mm_Chemgas" chance="0.50" />
+			<item name="Ammo_40mm_Explosive" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_40mm_Chemgas" chance="0.50" />
+			<item name="Ammo_40mm_Explosive" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_40mm_Smoke_Black" chance="0.25" />
+			<item name="Ammo_40mm_Smoke_Green" chance="0.25" />
+			<item name="Ammo_40mm_Smoke_Red" chance="0.25" />
+			<item name="Ammo_40mm_Smoke_White" chance="0.25" />
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+		<cargo preset="mixArmy" /> <!-- +4 -->
+	</type>
+	<type name="CargoPants_Beige">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="CargoPants_Black">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="CargoPants_Blue">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="CargoPants_Green">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="CargoPants_Grey">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="TTSKOPants">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="GorkaPants_Summer">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="GorkaPants_Autumn">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="mixArmy" /> <!-- +4 -->
+	</type>
+	<type name="GorkaPants_Flat">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="mixArmy" /> <!-- +4 -->
+	</type>
+	<type name="GorkaPants_PautRev">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="mixArmy" /> <!-- +4 -->
+	</type>
+	<type name="USMCJacket_Woodland">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="USMCPants_Woodland">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="mixArmy" /> <!-- +4 -->
+	</type>
+	<type name="BDUJacket">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BDUPants">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+		<cargo preset="mixArmy" /> <!-- +4 -->
+	</type>
+	<type name="M65Jacket_Black">
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Vodka" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M65Jacket_Khaki">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M65Jacket_Tan">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="TTsKOJacket_Camo">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GorkaEJacket_Summer">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GorkaEJacket_Flat">
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Vodka" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GorkaEJacket_Autumn">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FirefighterJacket_Black">
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Marmalade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Vodka" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FirefightersPants_Black">
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PoliceJacketOrel">
+		<attachments chance="1.00">
+			<item name="SawedoffFAMAS" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Kvass" chance="1.00" />
+		</attachments>
+	</type>
+	<!--BATTERY STUFF-->
+	<type name="Megaphone">
+	</type>
+	<type name="Mich2001Helmet">
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+	</type> 
+	<type name="NVGHeadstrap">
+		<attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+	</type> 
+	<type name="Rangefinder">
+	</type>
+	<type name="GorkaHelmet_Black">
+		<attachments chance="1.00">
+			<item name="GorkaHelmetVisor" chance="1.00" />
+		</attachments>
+	</type> 
+	<type name="GorkaHelmet">
+		<attachments chance="1.00">
+			<item name="GorkaHelmetVisor" chance="1.00" /> 
+		</attachments>
+	</type>
+	<type name="PressVest_Blue">
+		<attachments chance="0.15">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="RGD5Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="M18SmokeGrenade_Yellow" chance="0.20" />
+			<item name="M18SmokeGrenade_White" chance="0.20" />
+			<item name="M18SmokeGrenade_Red" chance="0.20" />
+			<item name="M18SmokeGrenade_Purple" chance="0.20" />
+			<item name="M18SmokeGrenade_Green" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="PressVest_LightBlue">
+		<attachments chance="0.15">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="RGD5Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="M18SmokeGrenade_Yellow" chance="0.20" />
+			<item name="M18SmokeGrenade_White" chance="0.20" />
+			<item name="M18SmokeGrenade_Red" chance="0.20" />
+			<item name="M18SmokeGrenade_Purple" chance="0.20" />
+			<item name="M18SmokeGrenade_Green" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="PlateCarrierVest">
+		<attachments chance="0.15">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="RGD5Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="0.30">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="M18SmokeGrenade_Yellow" chance="0.20" />
+			<item name="M18SmokeGrenade_White" chance="0.20" />
+			<item name="M18SmokeGrenade_Red" chance="0.20" />
+			<item name="M18SmokeGrenade_Purple" chance="0.20" />
+			<item name="M18SmokeGrenade_Green" chance="0.20" />
+		</attachments>
+		<attachments chance="0.45">
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AmmoBox">
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_308WinTracer" chance="0.50"/>
+			<item name="Ammo_308Win" chance="0.50"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="1.00"/>
+		</cargo>
+	</type> 
+	<!--GIFT BOXES-->
+		<type name="GiftBox_Small_1">
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="0.14" />
+			<item name="Ammo_9x39AP" chance="0.14" />
+			<item name="Ammo_308Win" chance="0.14" />
+			<item name="Ammo_308WinTracer" chance="0.14" />
+			<item name="Ammo_556x45" chance="0.14" />
+			<item name="Ammo_556x45Tracer" chance="0.14" />
+			<item name="Ammo_357" chance="0.14" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="0.14" />
+			<item name="Ammo_9x39AP" chance="0.14" />
+			<item name="Ammo_308Win" chance="0.14" />
+			<item name="Ammo_308WinTracer" chance="0.14" />
+			<item name="Ammo_556x45" chance="0.14" />
+			<item name="Ammo_556x45Tracer" chance="0.14" />
+			<item name="Ammo_357" chance="0.14" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="0.14" />
+			<item name="Ammo_9x39AP" chance="0.14" />
+			<item name="Ammo_308Win" chance="0.14" />
+			<item name="Ammo_308WinTracer" chance="0.14" />
+			<item name="Ammo_556x45" chance="0.14" />
+			<item name="Ammo_556x45Tracer" chance="0.14" />
+			<item name="Ammo_357" chance="0.14" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="0.14" />
+			<item name="Ammo_9x39AP" chance="0.14" />
+			<item name="Ammo_308Win" chance="0.14" />
+			<item name="Ammo_308WinTracer" chance="0.14" />
+			<item name="Ammo_556x45" chance="0.14" />
+			<item name="Ammo_556x45Tracer" chance="0.14" />
+			<item name="Ammo_357" chance="0.14" />
+		</cargo>
+	</type>
+	<type name="GiftBox_Small_3">
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="0.14" />
+			<item name="Ammo_9x39AP" chance="0.14" />
+			<item name="Ammo_308Win" chance="0.14" />
+			<item name="Ammo_308WinTracer" chance="0.14" />
+			<item name="Ammo_556x45" chance="0.14" />
+			<item name="Ammo_556x45Tracer" chance="0.14" />
+			<item name="Ammo_357" chance="0.14" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="0.14" />
+			<item name="Ammo_9x39AP" chance="0.14" />
+			<item name="Ammo_308Win" chance="0.14" />
+			<item name="Ammo_308WinTracer" chance="0.14" />
+			<item name="Ammo_556x45" chance="0.14" />
+			<item name="Ammo_556x45Tracer" chance="0.14" />
+			<item name="Ammo_357" chance="0.14" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="0.14" />
+			<item name="Ammo_9x39AP" chance="0.14" />
+			<item name="Ammo_308Win" chance="0.14" />
+			<item name="Ammo_308WinTracer" chance="0.14" />
+			<item name="Ammo_556x45" chance="0.14" />
+			<item name="Ammo_556x45Tracer" chance="0.14" />
+			<item name="Ammo_357" chance="0.14" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="0.14" />
+			<item name="Ammo_9x39AP" chance="0.14" />
+			<item name="Ammo_308Win" chance="0.14" />
+			<item name="Ammo_308WinTracer" chance="0.14" />
+			<item name="Ammo_556x45" chance="0.14" />
+			<item name="Ammo_556x45Tracer" chance="0.14" />
+			<item name="Ammo_357" chance="0.14" />
+		</cargo>
+	</type>
+	<type name="GiftBox_Medium_1">
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Morphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBagIV" /> 
+		</cargo>
+		<cargo chance="1">
+			<item name="Marmalade" /> 
+		</cargo>
+	</type>
+	<type name="GiftBox_Large_2">
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MakarovIJ70" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_IJ70_8Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54Tracer" chance="0.25"/>
+			<item name="Ammo_308WinTracer" chance="0.25"/>
+			<item name="Ammo_357" chance="0.25"/>
+			<item name="Mag_IJ70_8Rnd" chance="0.25"/>
+		</cargo>
+	</type>
+	<type name="GiftBox_Large_4">
+		<cargo chance="1">
+			<item name="Aug" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Mag_CMAG_40Rnd" />
+		</cargo>
+	</type>
+	<type name="GiftBox_Large_3">
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MakarovIJ70" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_IJ70_8Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00"/>
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54Tracer" chance="0.25"/>
+			<item name="Ammo_308WinTracer" chance="0.25"/>
+			<item name="Ammo_357" chance="0.25"/>
+			<item name="Mag_IJ70_8Rnd" chance="0.25"/>
+		</cargo>
+	</type>
+	<!--WEAPONS-->
+	<type name="Aug">
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.25" />
+			<item name="BUISOptic" chance="0.25" />
+			<item name="M4_T3NRDSOptic" chance="0.25" />
+			<item name="ReflexOptic" chance="0.25" />
+		</attachments>
+	</type>
+	<type name="AugShort">
+		<attachments chance="1.00">
+			<item name="Mag_Aug_30Rnd" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Longhorn">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="P1">
+		<attachments chance="0.45">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="Mag_P1_8Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SawedoffFAMAS">
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="SawedoffB95">
+		<attachments chance="1.0">
+			<item name="HuntingOptic" chance="1.0" />
+		</attachments>
+	</type>
+    <type name="CZ550">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_CZ550_10rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="PP19">
+        <attachments chance="1.0">
+            <item name="PistolSuppressor" chance="1.00" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="PP19_Bttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="KazuarOptic" chance="0.50" />
+            <item name="KobraOptic" chance="0.50" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="Mag_PP19_64Rnd" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="Winchester70">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="ImprovisedSuppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Winchester70_Black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="ImprovisedSuppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Winchester70_Green">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.90">
+			<item name="ImprovisedSuppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Mosin9130">
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mosin_Compensator" chance="0.50" />
+			<item name="ImprovisedSuppressor" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Mosin9130_Black">
+		<attachments chance="1.00">
+			<item name="Mosin_Compensator" chance="0.50" />
+			<item name="ImprovisedSuppressor" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Mosin9130_Green">
+		<attachments chance="1.00">
+			<item name="Mosin_Compensator" chance="0.50" />
+			<item name="ImprovisedSuppressor" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Mosin9130_Camo">
+		<attachments chance="1.00">
+			<item name="Mosin_Compensator" chance="0.50" />
+			<item name="ImprovisedSuppressor" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SawedoffMosin9130_Black">
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="ImprovisedSuppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SawedoffMosin9130_Green">
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="ImprovisedSuppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SawedoffMosin9130_Camo">
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ImprovisedSuppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SawedoffMosin9130">
+		<attachments chance="1.00">
+			<item name="PUScopeOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="ImprovisedSuppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AKM">
+		<attachments chance="1.00">
+			<item name="AK_FoldingBttstck_Green" chance="0.16" />
+			<item name="AK_WoodBttstck_Black" chance="0.16" />
+			<item name="AK_WoodBttstck_Camo" chance="0.16" /> 
+			<item name="AK_FoldingBttstck_Black" chance="0.16" />
+			<item name="AK_PlasticBttstck_Black" chance="0.16" />
+			<item name="AK_PlasticBttstck_Green" chance="0.16" /> 
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd_Black" chance="0.50" />
+			<item name="AK_WoodHndgrd_Camo" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KobraOptic" chance="0.33" />
+			<item name="PSO1Optic" chance="0.33" />
+			<item name="PSO11Optic" chance="0.33" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Palm30Rnd" chance="0.80" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="AK74">
+		<attachments chance="1.00">
+			<item name="AK_FoldingBttstck_Green" chance="0.16" />
+			<item name="AK_WoodBttstck_Black" chance="0.16" />
+			<item name="AK_WoodBttstck_Camo" chance="0.16" /> 
+			<item name="AK_FoldingBttstck_Black" chance="0.16" />
+			<item name="AK_PlasticBttstck_Black" chance="0.16" />
+			<item name="AK_PlasticBttstck_Green" chance="0.16" />  
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd_Black" chance="0.50" />
+			<item name="AK_WoodHndgrd_Camo" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KobraOptic" chance="0.33" />
+			<item name="PSO1Optic" chance="0.33" />
+			<item name="PSO11Optic" chance="0.33" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_Suppressor" chance="0.40" />
+			<item name="AK_Bayonet" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AK74_Black">
+		<attachments chance="1.00">
+			<item name="AK_WoodBttstck_Black" chance="0.33" />
+			<item name="AK_FoldingBttstck_Black" chance="0.33" />
+			<item name="AK_PlasticBttstck_Black" chance="0.33" /> 
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd_Black" chance="0.50" />
+			<item name="AK_RailHndgrd_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KobraOptic" chance="0.33" />
+			<item name="PSO1Optic" chance="0.33" />
+			<item name="PSO11Optic" chance="0.33" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AK74_Green">
+		<attachments chance="1.00">
+			<item name="AK_FoldingBttstck_Green" chance="0.33" />
+			<item name="AK_WoodBttstck_Camo" chance="0.33" /> 
+			<item name="AK_PlasticBttstck_Green" chance="0.33" /> 
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd_Black" chance="0.50" />
+			<item name="AK_WoodHndgrd_Camo" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KobraOptic" chance="0.33" />
+			<item name="PSO1Optic" chance="0.33" />
+			<item name="PSO11Optic" chance="0.33" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AKS74U_Black">
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck_Black" chance="0.33" />
+			<item name="AK_FoldingBttstck" chance="0.33" />
+			<item name="AK_WoodBttstck_Black" chance="0.33" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AKS74U_Green">
+		<attachments chance="1.00">
+			<item name="AK_WoodBttstck_Camo" chance="0.33" />
+			<item name="AK_PlasticBttstck_Green" chance="0.33" />
+			<item name="AK_FoldingBttstck" chance="0.33" /> 
+		</attachments>
+		<attachments chance="0.40">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AKS74U">
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck_Black" chance="0.33" />
+			<item name="AK_PlasticBttstck_Green" chance="0.33" />
+			<item name="AK_FoldingBttstck" chance="0.33" /> 
+		</attachments>
+		<attachments chance="0.40">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK74_45Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Deagle"> 
+		<attachments chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="PistolOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Deagle_Gold">
+		<attachments chance="1.00">
+			<item name="Mag_Deagle_9rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="PistolOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Scout">
+		<attachments chance="1.00">
+			<item name="Mag_Scout_5Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic_6x" chance="0.70" />
+			<item name="StarlightOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Scout_Chernarus">
+		<attachments chance="1.00">
+			<item name="Mag_Scout_5Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic_6x" chance="0.70" />
+			<item name="StarlightOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AK101">
+		<attachments chance="1.00">
+			<item name="AK_WoodBttstck_Black" chance="0.25" />
+			<item name="AK_WoodBttstck_Camo" chance="0.25" /> 
+			<item name="AK_PlasticBttstck_Black" chance="0.25" />
+			<item name="AK_PlasticBttstck_Green" chance="0.25" />  
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd_Black" chance="0.50" />
+			<item name="AK_WoodHndgrd_Camo" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KobraOptic" chance="0.33" />
+			<item name="PSO1Optic" chance="0.33" />
+			<item name="PSO11Optic" chance="0.33" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AK101_Green">
+		<attachments chance="1.00">
+			<item name="AK_WoodBttstck_Black" chance="0.25" />
+			<item name="AK_WoodBttstck_Camo" chance="0.25" /> 
+			<item name="AK_PlasticBttstck_Black" chance="0.25" />
+			<item name="AK_PlasticBttstck_Green" chance="0.25" />  
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_WoodHndgrd_Camo" chance="0.50" />
+			<item name="AK_WoodHndgrd_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KobraOptic" chance="0.33" />
+			<item name="PSO1Optic" chance="0.33" />
+			<item name="PSO11Optic" chance="0.33" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AK101_Black">
+		<attachments chance="1.00">
+			<item name="AK_WoodBttstck_Black" chance="0.25" />
+			<item name="AK_WoodBttstck_Camo" chance="0.25" /> 
+			<item name="AK_PlasticBttstck_Black" chance="0.25" />
+			<item name="AK_PlasticBttstck_Green" chance="0.25" />  
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_RailHndgrd_Black" chance="0.33" />
+			<item name="AK_WoodHndgrd_Black" chance="0.33" />
+			<item name="AK_WoodHndgrd_Camo" chance="0.33" />
+		</attachments>
+		<attachments chance="1.00"> 
+			<item name="KobraOptic" chance="0.33" />
+			<item name="PSO1Optic" chance="0.33" />
+			<item name="PSO11Optic" chance="0.33" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M16A2">
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="0.50" />
+			<item name="Mag_STANAG_60Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="FAMAS">
+		<attachments chance="1.00">
+			<item name="Mag_FAMAS_25Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M4A1">
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.20" />
+			<item name="M4_CarryHandleOptic" chance="0.30" />
+			<item name="ACOGOptic_6x" chance="0.20" />
+			<item name="BUISOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="0.40" />
+		</attachments> 
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="0.80" />
+			<item name="Mag_STANAG_60Rnd" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="M4A1_Black">
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="0.50" />
+			<item name="M4_MPBttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_MPHndgrd" chance="0.25" />
+			<item name="M4_PlasticHndgrd" chance="0.25" />
+			<item name="M4_RISHndgrd_Black" chance="0.25" />
+			<item name="M4_RISHndgrd_Green" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.30" />
+			<item name="M4_CarryHandleOptic" chance="0.20" />
+			<item name="ACOGOptic_6x" chance="0.30" />
+			<item name="BUISOptic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="0.80" />
+			<item name="Mag_STANAG_60Rnd" chance="0.20" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M4A1_Green">
+		<attachments chance="1.00">
+			<item name="M4_MPBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_MPHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M68Optic" chance="0.33" />
+			<item name="M4_T3NRDSOptic" chance="0.33" />
+			<item name="ReflexOptic" chance="0.33" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="0.80" />
+			<item name="Mag_STANAG_60Rnd" chance="0.20" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="FAL">
+		<attachments chance="1.00">
+			<item name="Fal_FoldingBttstck" chance="0.50" />
+			<item name="Fal_OeBttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.50" />
+			<item name="ACOGOptic_6x" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SVD">
+		<subcounter min="30" max="60" />
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="B95">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<!-- ARMY -->
+	<type name="ZmbM_PatrolNormal_Autumn">
+		<cargo chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>		
+	<type name="ZmbM_PatrolNormal_Flat">
+		<cargo chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="ZmbM_PatrolNormal_PautRev">
+		<cargo chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="ZmbM_PatrolNormal_Summer">
+		<cargo chance="1">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+		<cargo preset="foodArmy" /> <!-- +4 -->
+		<attachments preset="ghillieKit" />
+	</type>
+	<type name="ZmbM_SoldierNormal">
+		<cargo chance="1">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->
+	</type>
+	<type name="ZmbM_usSoldier_Officer_Desert">
+		<cargo chance="1">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->		
+	</type>
+	<type name="ZmbM_usSoldier_Heavy_Woodland">
+		<cargo chance="1">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo preset="foodArmy" /> <!-- +4 -->		
+	</type>
+	<!-- Religious -->
+	<type name="ZmbM_priestPopSkinny">
+		<cargo chance="1">
+			<item name="Battery9V" />
+		</cargo>
+		<attachments chance="1.00">
+			<item name="WitchHood_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SawedoffIzh43Shotgun" chance="0.16" />
+			<item name="SodaCan_Spite" chance="0.16"/>
+			<item name="SodaCan_Pipsi" chance="0.16"/>
+			<item name="SodaCan_Cola" chance="0.16"/>
+			<item name="SodaCan_Kvass" chance="0.16"/>
+			<item name="SodaCan_Fronta" chance="0.16" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_12gaPellets" chance="0.50" />
+			<item name="Ammo_12gaSlug" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Ammo_ImprovisedBolt_1" chance="0.50" />
+			<item name="Ammo_HuntingBolt" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="PlateCarrierVest_Black">
+        <attachments chance="1.00">
+            <item name="PlateCarrierHolster_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PlateCarrierPouches_Black" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="PlateCarrierVest_Green">
+        <attachments chance="1.00">
+            <item name="PlateCarrierHolster_Green" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PlateCarrierPouches_Green" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="PlateCarrierVest_Camo">
+        <attachments chance="1.00">
+            <item name="PlateCarrierHolster_Camo" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="PlateCarrierPouches_Camo" chance="1.00" />
+        </attachments>
+    </type>
+</spawnabletypes>
