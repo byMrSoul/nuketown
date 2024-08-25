@@ -1,5 +1,6 @@
-https://i.postimg.cc/5NGsshBK/Legion-Killfeed-Rated-Best.png
-
+[![Legion-Killfeed-Rated-Best.png](https://i.postimg.cc/5NGsshBK/Legion-Killfeed-Rated-Best.png)](https://postimg.cc/hfL8j33V)
+[![globe.gif](https://i.postimg.cc/2yjwBVjK/globe.gif)](https://postimg.cc/ph78wVFf)
+Legion Killfeed, the best DayZ killfeed bot.
 [Killfeed Website](https://killfeed.co/)
 [Commands](https://killfeed.co/commands)
 [FAQs](https://killfeed.co/faq)
